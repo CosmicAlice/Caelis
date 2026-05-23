@@ -1,0 +1,31 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variables locales
+.env
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Maven Wrapper cache
+.mvn/wrapper/maven-wrapper.jar
+
+# MySQL / BD local
+*.sql~
