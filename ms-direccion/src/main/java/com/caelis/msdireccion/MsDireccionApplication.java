@@ -1,0 +1,13 @@
+package com.caelis.msdireccion;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsDireccionApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsDireccionApplication.class, args);
+	}
+
+}
